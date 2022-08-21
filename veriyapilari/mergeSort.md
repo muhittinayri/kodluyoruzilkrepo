@@ -3,7 +3,6 @@
 
 #### 1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
-|                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
 |-----------------------------------------------  |- |- |- |- |- |- |- |- |- |- |- |- |
 |Diziyi ikiye bölerek yeniden yazıyoruz           |  |  |  |16|21|11|8 |12|22|  |  |  |
 |                                                 |  |  |  |  |  |  |  |  |  |  |  |  |

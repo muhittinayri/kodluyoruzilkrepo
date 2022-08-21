@@ -2,7 +2,6 @@
 ### [16,21,11,8,12,22] -> Merge Sort
 
 #### 1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
-###### Başlangıçta dizimizi ikiye bölüyoruz. Bölünen dizileri tekrar bölüyoruz. Tek eleman kalana kadar İşleme devam ediyoruz.
 
 |                                                 |  |  |  |  |  |  |  |  |  |  |  |  |
 |-----------------------------------------------  |- |- |- |- |- |- |- |- |- |- |- |- |
